@@ -1,5 +1,7 @@
 # Kotlin hello-world example with maven
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=S0obi_kotlin-hello-world&metric=alert_status)](https://sonarcloud.io/dashboard?id=S0obi_kotlin-hello-world)
+
 ## Prerequisites to running the example
 
  * download Maven directly from the [Apache Maven homepage](http://maven.apache.org/download.html)
